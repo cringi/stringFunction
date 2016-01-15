@@ -1,0 +1,2 @@
+# stringFunction
+one more day
